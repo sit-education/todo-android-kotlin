@@ -1,1 +1,1 @@
-# todo-android-kotlin
+Kotlin education project
