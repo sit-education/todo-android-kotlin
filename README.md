@@ -1,1 +1,1 @@
-Kotlin education project
+ToDo - kotlin education project
